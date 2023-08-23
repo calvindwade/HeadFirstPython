@@ -1,2 +1,2 @@
-# Following along with HeadFirstPython
-# Clearly, I have no idea what I am doing.
+# HeadFirstPython
+Clearly, I have no idea what I am doing.
